@@ -35,19 +35,19 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 ```javascript
-const akhilesh = {
+const teja = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: "JUSTICE AI 🔭",
-    learning: ["MERN Stack", "System Design"],
-    interests: ["Problem Solving", "Web Development", "AI/ML"],
-    motto: "Bugs in my head never make me sleep ^_^",
+    currentFocus: "Data Science & Machine Learning",
+    learning: ["Python", "SQL", "Machine Learning", "DSA"],
+    interests: ["Data Science", "AI", "Problem Solving"],
+    motto: "Learn, Code, Repeat",
     
     lifeLoop: function() {
         while(alive) {
-            eat();
+            learn();
             code();
-            solve();
+            buildProjects();
             repeat();
         }
     }
