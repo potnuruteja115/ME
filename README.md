@@ -19,3 +19,5 @@ Hi, I’m Potnuru Teja 👋<br>I’m a Data Science student focused on building 
 [![](https://visitcount.itsvg.in/api?id=potnuruteja115&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+![snake gif](https://github.com/potnuruteja115/ME/blob/output/github-contribution-grid-snake.svg)
