@@ -28,7 +28,5 @@ Hi, I’m Potnuru Teja 👋<br>I’m a Data Science student focused on building 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=potnuruteja115&theme=tokyonight)
 ---
-## Skills
-![Python](https://skillicons.dev/icons?i=python)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+
 
