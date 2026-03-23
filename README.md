@@ -24,8 +24,6 @@ Hi, I’m Potnuru Teja 👋<br>I’m a Data Science student focused on building 
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Potnuru+Teja;Data+Science+Student;Python+Learner;Future+ML+Engineer)
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=potnuruteja115&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potnuruteja115&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=potnuruteja115&theme=tokyonight)
