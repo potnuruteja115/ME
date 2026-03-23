@@ -31,5 +31,4 @@ Hi, I’m Potnuru Teja 👋<br>I’m a Data Science student focused on building 
 ## Skills
 ![Python](https://skillicons.dev/icons?i=python)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
+
