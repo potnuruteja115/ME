@@ -10,10 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
         with:
-          github_user_name: potnuruteja115
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: potnuruteja
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
