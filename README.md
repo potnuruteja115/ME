@@ -142,8 +142,9 @@ const teja = {
 </p>
 
 ## 🐍 GitHub Contribution Snake
+
 <p align="center">
-  <img src="https://github.com/potnuruteja115/potnuruteja115/blob/output/github-contribution-grid-snake.svg" width="95%"/>
+  <img src="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ## 👀 Profile Views
