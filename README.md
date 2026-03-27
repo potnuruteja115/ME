@@ -119,14 +119,11 @@ const teja = {
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=potnuruteja115&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potnuruteja115&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=potnuruteja115&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=potnuruteja115&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=potnuruteja115&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=potnuruteja115&theme=tokyonight&hide_border=true&background=0D1117)
 
 ## 📈 Contribution Graph
 
