@@ -117,32 +117,34 @@ const teja = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Statistics</h2>
+## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=potnuruteja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=potnuruteja&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=potnuruteja115&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potnuruteja115&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potnuruteja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=potnuruteja&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
-</div>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=potnuruteja115&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potnuruteja/potnuruteja/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potnuruteja/potnuruteja/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/potnuruteja/potnuruteja/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-snake.svg" />
   </picture>
 </div>
 
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/potnuruteja/potnuruteja/output/github-snake.svg"/> </p>
+## 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github.com/potnuruteja115/potnuruteja115/blob/output/github-contribution-grid-snake.svg" width="95%"/>
+</p>
 
-👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=potnuruteja&label=Profile%20Views&color=blue&style=for-the-badge"/> </p> ```
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=potnuruteja115&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+</p>
