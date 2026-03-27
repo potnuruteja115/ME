@@ -131,17 +131,6 @@ const teja = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=potnuruteja115&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="95%"/>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-contribution-grid-snake.svg">
-  <img alt="github snake" src="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
 ## 🐍 GitHub Contribution Snake
 <p align="center">
   <img src="https://github.com/potnuruteja115/potnuruteja115/blob/output/github-contribution-grid-snake.svg" width="95%"/>
