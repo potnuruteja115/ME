@@ -125,9 +125,14 @@ const teja = {
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=potnuruteja115&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=potnuruteja115&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=potnuruteja115&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="95%"/>
+</p>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
