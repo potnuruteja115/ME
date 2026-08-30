@@ -141,10 +141,10 @@ const teja = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potnuruteja115&theme=tokyonight" width="95%"/>
 </p>
 
-## 🌌 GitHub 3D Contributions
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
+  <img src="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ## 👀 Profile Views
