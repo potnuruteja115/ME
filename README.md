@@ -138,7 +138,7 @@ const teja = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api?username=potnuruteja115&theme=github-dark" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potnuruteja115&theme=tokyonight" width="95%"/>
 </p>
 
 ## 🐍 GitHub Contribution Snake
