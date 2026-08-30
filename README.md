@@ -123,13 +123,13 @@ const teja = {
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=potnuruteja115&show_icons=true&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=potnuruteja115&theme=tokyonight"/>
 </td>
 <td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=potnuruteja115&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=potnuruteja115&theme=tokyonight"/>
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=potnuruteja115&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=potnuruteja115&theme=tokyonight"/>
 </td>
 </tr>
 </table>
