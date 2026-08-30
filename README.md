@@ -123,13 +123,13 @@ const teja = {
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=potnuruteja115&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=potnuruteja115&show_icons=true&theme=tokyonight&hide_border=true"/>
 </td>
 <td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=potnuruteja115&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potnuruteja115&layout=compact&theme=tokyonight&hide_border=true"/>
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=potnuruteja115&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=potnuruteja115&theme=tokyonight&hide_border=true"/>
 </td>
 </tr>
 </table>
@@ -137,9 +137,9 @@ const teja = {
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=potnuruteja115&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="95%"/>
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=potnuruteja115&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" width="95%"/>
+</div>
 
 ## 🐍 GitHub Contribution Snake
 
