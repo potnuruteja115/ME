@@ -141,13 +141,16 @@ const teja = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=potnuruteja115&theme=tokyonight" width="95%"/>
 </p>
 
-## 🐍 GitHub Contribution Snake
+## 🕹️ GitHub Contribution Breakout
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-contribution-grid-breek-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-contribution-grid-breek.svg">
+    <img src="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/github-contribution-grid-breek.svg"
+         width="95%" alt="GitHub Contribution Breakout">
   </picture>
 </p>
 
