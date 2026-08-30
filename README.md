@@ -144,9 +144,15 @@ const teja = {
 ## 🚀 GitHub Contribution Galaga
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/galaga.svg"
-       width="95%"
-       alt="GitHub Contribution Galaga"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/galaga-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/potnuruteja115/potnuruteja115/output/galaga-contribution-graph.svg"
+         width="95%"
+         alt="GitHub Contribution Galaga">
+  </picture>
 </p>
 
 ## 👀 Profile Views
